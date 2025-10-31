@@ -20,8 +20,8 @@
 ## 🔧 Tech Stack
 
 - **Languages**: Java, JavaScript, SQL, PHP
-- **Front-End**: HTML, CSS, JavaScript
-- **Back-End**: Node.js, Express.js, React.js, REST API, Talwind CSS
+- **Front-End**: HTML, CSS, JavaScript, Tailwind CSS, React.js
+- **Back-End**: Node.js, Express.js, REST API
 - **Databases**: MySQL, SQL, MongoDB
 - **Others**: Git, GitHub, Render, Vercel, VS Code
 
@@ -36,11 +36,11 @@
 
 ## 🧩 Projects
 
-| Project               | Description                                              | Live Demo |
-|-----------------------|----------------------------------------------------------|-----------|
-| **CardioScan**        | AI-based heart health monitoring web app                | [Visit](https://cardioscan.onrender.com/) |
-| **Daily Task Tracker**| Task manager with a clean UI for productivity           | [Visit](https://satyam-webdevelopment.github.io/Task_Management/) |
-| **WebCode Editor**    | Lightweight live code editor for web dev                | [Visit](https://lite-web-dev-editor.vercel.app/) |
+| Project                 | Description                                              | Live Demo |
+|-------------------------|----------------------------------------------------------|-----------|
+| **Portfolio**           | A responsive portfolio crafted with HTML, CSS, and JS    | [Visit](https://anu2024-coder.github.io/My_Portfolio/) |
+| **AI Telemedicine Bot** | AI chatbot for virtual medical assistance.               | Runs locally via VS Code terminal |
+| **Bookstore website**   | Responsive bookstore web app with genre-based browsing.  | [Visit](https://bookstore4u.infinityfreeapp.com) |
 
 ---
 
@@ -52,7 +52,7 @@
 
 ## 📈 GitHub Stats
 
-![Satyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anu2024-coder&show_icons=true&theme=tokyonight)  
+![Anu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anu2024-coder&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anu2024-coder&layout=compact&theme=tokyonight)
 
 ### 🔥 Streak
