@@ -46,7 +46,7 @@
 
 ## 🌐 Portfolio
 
-🔗 [My Portfolio Website](https://anu2024-coder.github.io/MyPortfolio/)
+🔗 [My Portfolio Website](https://anu2024-coder.github.io/My_Portfolio/)
 
 ---
 
