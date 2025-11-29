@@ -23,7 +23,7 @@
 - **Front-End**: HTML, CSS, JavaScript, Tailwind CSS, React.js
 - **Back-End**: Node.js, Express.js, REST API
 - **Databases**: MySQL, SQL, MongoDB
-- **Others**: Git, GitHub, Render, Vercel, VS Code
+- **Others**: Git, GitHub, Render, Vercel, VS Code, HoppScotch
 
 ---
 
