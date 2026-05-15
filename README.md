@@ -14,7 +14,7 @@
 - ⚙️ Full-Stack Engineer — MERN Stack, Distributed Systems, Backend Architecture
 - 🧠 Learning DSA (Java) + System Design + Advanced Web Dev
 - 🚀 Passionate about building real-world, production-grade tech solutions
-- 🔗 Portfolio: [anu2024-coder.github.io/My_Portfolio](https://anu2024-coder.github.io/My_Portfolio/)
+- 🔗 Portfolio: [anu2024-coder.github.io/My_Portfolio](https://anugill05.github.io/MyPortfolio/)
 
 ---
 
@@ -28,24 +28,13 @@
 
 ---
 
-## 🧠 Learning Goals
-
-- Build scalable full-stack apps with high concurrency handling
-- Explore systems design & distributed architecture
-- Contribute to open-source projects
-
----
-
 ## 🧩 Projects
 
 | Project | Description | Live Demo / Code |
 |---|---|---|
 | **Thrust3D Platform** | Production-grade e-commerce platform for 3D printing services. Features 25+ secure REST APIs, role-based access control, rate limiting, payment workflows, dynamic pricing, and order lifecycle management. | [Live](https://thrust3d.com) |
-| **FlashKart – High-Concurrency E-Commerce** | Scalable commerce platform handling 10K+ concurrent users during flash sales. Built with Redis distributed locking, atomic operations, Razorpay HMAC-SHA256 payment verification, OTP authentication, and caching layers. | [Live Demo](https://ecommerce-1-782g.onrender.com) |
+| **FlashKart – High-Concurrency E-Commerce** | Scalable commerce platform handling 10K+ concurrent users during flash sales. Built with Redis distributed locking, atomic operations, Razorpay HMAC-SHA256 payment verification, OTP authentication, and caching layers. | [Live](https://ecommerce-1-782g.onrender.com) |
 | **CareHub – Healthcare Queue Management** | Role-based healthcare workflow system for doctors, admins, and patients. Includes appointment scheduling, queue tracking, secure authentication pipelines, and scalable REST API architecture. | [GitHub](https://github.com/Anugill05/CareHub-MERN-Project) |
-| **Portfolio** | A responsive portfolio crafted with HTML, CSS, and JS. | [Visit](https://anu2024-coder.github.io/My_Portfolio/) |
-| **AI Telemedicine Bot** | AI chatbot for virtual medical assistance. | Runs locally via VS Code terminal |
-| **Bookstore Website** | Responsive bookstore web app with genre-based browsing. | [Visit](https://bookstore4u.infinityfreeapp.com) |
 
 ---
 
@@ -55,15 +44,6 @@
 - ⭐ Earned a **5-star rating in C** on HackerRank
 - 🚀 Built and deployed multiple **production-grade systems** with measurable scalability improvements
 - 💼 Delivered a **freelance production project** (Thrust3D) with full e-commerce functionality
-
----
-
-## 📜 Certifications
-
-- 🎓 **Meta Full Stack** — Coursera (Aug 2025)
-- 🤖 **Generative AI & Data Science** — Oracle University (Jun 2025)
-- ☁️ **Cloud Computing** — NPTEL (Apr 2025)
-- 💻 **C Programming & Modular Logic** — CSE Pathshala (2023)
 
 ---
 
